@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - road
+  - log
+  - crocodile
+  - snake
+  - car
+  - turtle
+  - finish
+  - water
+  - finish1
+  - finish2
+  - finish3
+  - finish4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockLayer
+  - LogLayerMask
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 2829184967
+    locked: 0
+  - name: Floor
+    uniqueID: 615270985
+    locked: 0
+  - name: Units
+    uniqueID: 387495219
+    locked: 0
+  - name: End
+    uniqueID: 4150975367
+    locked: 0
+  - name: LogLayerMask
+    uniqueID: 3193341225
+    locked: 0
+  - name: Snake
+    uniqueID: 3981493919
+    locked: 0
+  - name: Player
+    uniqueID: 135307903
+    locked: 0
+  - name: Black
+    uniqueID: 1141954927
+    locked: 0

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{4CE07701-134F-9DD0-F36C-F385BB4D61DF}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnObstacles.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Obstacle.cs" Line="29" Column="14" />
+      <File FileName="Assets/Scripts/Player.cs" Line="103" Column="10" />
+      <File FileName="Assets/Scripts/GameManage.cs" Line="31" Column="25" />
+      <File FileName="Assets/Scripts/SnakeScript.cs" Line="2" Column="34" />
+      <File FileName="Assets/Scripts/HorizontalMovement.cs" Line="28" Column="24" />
+      <File FileName="Assets/Scripts/SpawnObstacles.cs" Line="36" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
